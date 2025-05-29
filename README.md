@@ -1,4 +1,7 @@
-# 🚨 USSFL-IDS: Enhanced Semi-Supervised Federated Learning for Intrusion Detection in IoT
+# 🚨 Advanced Geometric Aggregation and Gradient
+Regularization Framework for Semi-supervised
+Federated Intrusion Detection in Heterogeneous IoT
+Environments
 
 This repository contains the implementation of an **Enhanced Semi-Supervised Federated Learning-based Intrusion Detection System (USSFL-IDS)**. It is based on the paper:
 
